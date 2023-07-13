@@ -1,0 +1,13 @@
+.innerdiv{
+    background: url('https://previews.123rf.com/images/dzein/dzein2006/dzein200600016/148951929-work-from-home-office-vector-background-banner-freelance-remote-online-business-job-background-for.jpg');
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+    background-size: cover;
+}
+.outerdiv{
+    background: center;
+    padding: 10px;
+    border: 10px;
+    margin: 8px;
+}
